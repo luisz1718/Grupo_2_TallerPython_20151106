@@ -1,4 +1,4 @@
-# Grupo_2_TallerPython_20151106
+# Tarea 1
 
 <p>
 Este repositorio contiene
